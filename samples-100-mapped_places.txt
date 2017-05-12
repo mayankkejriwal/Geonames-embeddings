@@ -1,0 +1,100 @@
+<Zhangjia_7400050>	1
+<Bedugul_7336044>	2
+<Grafton_5069287>	3
+<Panjiazhuang_7520043>	4
+<Puerto Reconquista_3429733>	5
+<Tsetserengiin Dugang_1515094>	6
+<Ghogar_7465606>	7
+<Kuchampūdi_10767147>	8
+<Ndounga_8562734>	9
+<Pozo Frío_8711034>	10
+<Jiaoquan_10363304>	11
+<Crawford_4107022>	12
+<Jhok Māchhi_1419085>	13
+<Banjar Pesangkan Anyar_7055305>	14
+<Barua_6734973>	15
+<Huajiaoli_7409178>	16
+<Haepodong_11117777>	17
+<Sapchat_2976072>	18
+<Kašenec_3073779>	19
+<Koullo_2429700>	20
+<Hollyglen Village_7218051>	21
+<Tungan Jero_7040285>	22
+<Krasnyy Yar_8252544>	23
+<Apsheronsk_581313>	24
+<Kholmogoy_2022382>	25
+<Leinhausen_2879178>	26
+<Dinta_338878>	27
+<Yufeng_8525949>	28
+<Petryata_8248615>	29
+<Ttaekpi-mal_6809315>	30
+<Yirga Dejen_325777>	31
+<Prebl-Brunnen_3324785>	32
+<Ji’ang_7446321>	33
+<Döngeller_747906>	34
+<Gunadaha_1245254>	35
+<Golovets_7042986>	36
+<Nira_10599433>	37
+<Ban Nong Song Maeo_8670528>	38
+<Purāna Shāhābād_10446276>	39
+<Premestivo_11113671>	40
+<Pinheirinho_7775823>	41
+<Namai_9934925>	42
+<Los Tulipanes_8919391>	43
+<Dalas_6316985>	44
+<Lüjia_1553790>	45
+<Burtsevo_570695>	46
+<Bokopi_2388335>	47
+<Belén_3688999>	48
+<Ban Khlong Soi Thi Sip Et_7099321>	49
+<Hehua_7040733>	50
+<Yamalata_896061>	51
+<Yegegengba_10208090>	52
+<Houthalenberg_2795260>	53
+<Haidhof_2777011>	54
+<Tinguita_7904549>	55
+<Nerómylos_9166416>	56
+<Ban Huai Pun_1603300>	57
+<Bayramlı_321726>	58
+<Houte_2795274>	59
+<Baradêng_1816869>	60
+<Ban Bo Kang_8536440>	61
+<Gujing_10200369>	62
+<Laguna_3912190>	63
+<Khalifa_1174292>	64
+<Tavakkolābād_6980409>	65
+<Juduken_2276149>	66
+<Sevaberd_612042>	67
+<Dullahapur_10625718>	68
+<Sun Valley Mobile Home Park_7221941>	69
+<Gharāt Behi_10716530>	70
+<Gongjiatuan_8656971>	71
+<Los Compadres_8729264>	72
+<Znamensk_831130>	73
+<Port Adriano_6692604>	74
+<Karanglo_1936346>	75
+<Carriage Gate_4186380>	76
+<Damapo_10425471>	77
+<Koškovce_724435>	78
+<Gaorennang_7347720>	79
+<Fīrūzābād_134504>	80
+<Vetkhe_8401361>	81
+<Connor_4461675>	82
+<Niujiaokeng_6650318>	83
+<Yanjiao_10025239>	84
+<Ngroto_1971929>	85
+<Poungákia_254764>	86
+<Rāju ki Dhāni_6989232>	87
+<Clara_4421866>	88
+<Huazhuang_9131304>	89
+<Sanrang_10320494>	90
+<Norumegi_1902118>	91
+<Péla-Beiço_3454253>	92
+<Īl’īch_10955374>	93
+<Ungwan Farinbatu_7040103>	94
+<Wad ‘Ashāna_364236>	95
+<Saneum_6274817>	96
+<Chauffecourt_3025962>	97
+<Ha Ntsooa_11237642>	98
+<Souk el Had des Bradia_2532434>	99
+<Salitrillo_9279203>	100
