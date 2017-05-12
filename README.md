@@ -16,17 +16,17 @@ To combine all the files into a single jl file use the cat command (after decomp
 
 The first 100 lines of populated-place-embeddings-1.jl.gz are in samples-100-locations.jl and can be viewed in a browser
 
-9. mapped_places.txt.gz: To efficiently read things in memory and process, we mapped each of the mnemonic Geonames keys to an integer. E.g. 
+8. mapped_places.txt.gz: To efficiently read things in memory and process, we mapped each of the mnemonic Geonames keys to an integer. E.g. 
 <Presidio_3521133>	287145
 we use tab to separate the two items. 100 sample lines were written out to samples-100-mapped_places.txt
 Note that mapped_places.txt contains keys that you will not find in the embedding files. These are places that are not
 populated anymore i.e. geonames shows them as having population 0 (or missing a population feature).
 
-10. random-walk-corpus.txt.gz: contains the random walk corpus that was used by DeepWalk for the embeddings. Each line
+9. random-walk-corpus.txt.gz: contains the random walk corpus that was used by DeepWalk for the embeddings. Each line
 contains a random walk sequence, space separated. Each item in the sequence is the mapped int of the mnemonic Geonames key.
 We initiated 5 samples per node, up to a maximum depth of 10.
 
-11. weighted_adjacency_list.tsv.gz: contains the directed weighted network that was used to generate the random walks. The
+10. weighted_adjacency_list.tsv.gz: contains the directed weighted network that was used to generate the random walks. The
 items in each line are tab-delimited and are of the form:
 [node-out] [node-in1] [weight1] [node-in2] [weight2]...
 where node-out is the node from which the edges are outgoing (to node-in1, node-in2...). The weights represent a probability
