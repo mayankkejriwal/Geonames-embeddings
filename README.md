@@ -2,7 +2,7 @@
 Embeddings for all geonames populated locations with population greater than 0
 
 This project contains DeepWalk embeddings for populated places in Geonames. 
-We describe the files first before giving a few examples. All embeddings were generated using the gensim package in Python.
+We describe the files below. All embeddings were generated using the gensim package in Python.
 
 FILES:
 
