@@ -14,7 +14,7 @@ identified but is also human-readable.
 
 To combine all the files into a single jl file use the cat command (after decompressing) in a UNIX-like terminal
 
-8. The first 100 lines of populated-place-embeddings-1.jl.gz are in samples-100-locations.jl and can be viewed in a browser
+The first 100 lines of populated-place-embeddings-1.jl.gz are in samples-100-locations.jl and can be viewed in a browser
 
 9. mapped_places.txt.gz: To efficiently read things in memory and process, we mapped each of the mnemonic Geonames keys to an integer. E.g. 
 <Presidio_3521133>	287145
